@@ -20,3 +20,4 @@ En este caso diferenciaremos entre tres disposiciones para la misma web, la de l
 Tenéis que aplicar las clases de Bootstrap necesarias para que al cambiar el tamaño de la pantalla se cambie la disposición de los bloques como se muestra en el esquema. Tened en cuenta que para este ejercicio es necesario utilizar el anidamiento de columnas.
 En la disposición para tamaños grandes, se puede ver como el bloque central de las columnas de color azul tiene un tamaño diferente. Esto se debe a que las 12 posibles columnas del sistema de rejilla de Bootstrap no es divisible por este número de columnas. ¿Cómo podríamos hacer que las cinco columnas tengan el mismo tamaño?
 
+
