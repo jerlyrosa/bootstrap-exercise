@@ -1,0 +1,32 @@
+.containerSystem{
+    margin-top:2rem;
+    text-align: center;
+}
+.stylesCol{
+    padding: 2%;
+    border-style: double;
+    border-radius: 4px;
+    border-color: #DB36F5;
+}
+.stylesColSpecial{
+    padding: 2%;
+    padding-bottom: 25%;
+    border-style: double;
+    border-radius: 4px;
+    border-color: #DB36F5;
+
+}
+.stylesColSpecial2{
+    border-style: solid;
+    border-color: #DB36F5;
+
+}
+.stylesColSpecial3{
+    padding: 2%;
+    padding-bottom: 17%;
+    border-style: double;
+    border-radius: 4px;
+    border-color: #DB36F5;
+
+}
+
